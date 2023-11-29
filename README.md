@@ -30,4 +30,5 @@ This is the 3D printing folder for VR glove. The hardware currenty all come from
    - Brims are acceptable
    - Shell thickness: 0.8mm (2 outlines)
    - Retraction settings: May differ between printers, 5mm on Ender 3 is fine
-2. Export all 3D print (in file) into G-Code
+2. Export all 3D print (in Hardware folder) into G-Code
+   - NOTE: There's a file name, 1Prot4_EndCap_testing, this is meant to let you test out what fit your finger tip, once tested, 3D end tips for each finger
